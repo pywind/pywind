@@ -12,9 +12,9 @@
 - 🌱 I’m currently learning MACHINE LEARNING
 - 👯 I’m on IMPROVING MYSELT
 - 🤔 I am looking for help with the MOST sincerity
-- 💬 Ask me about HEY! U<3T
-- 📫 How to reach me: FIND ME ON FB/PCYT.21 
+- 💬 Ask me about U3T
+- 📫 How to reach me: FIND ME ON FB/PYWIND
 - 😄 Pronouns: Phước
-- ⚡ Fun fact: I'm not have GF :(( !!
+- ⚡ Fun fact: :(( !!
 
 
