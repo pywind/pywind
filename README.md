@@ -2,7 +2,7 @@
 
 ## Now I started:
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
-![]([https://img.shields.io/badge/-C/C++-c14438](https://img.shields.io/conda/pn/:channel/:package?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/conda/pn/:channel/:package?style=flat-square&logo=C&logoColor=fff)
 
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pywind">
